@@ -25,7 +25,7 @@
 		}
 	],
 	"vars": {
-		"MERCHANT_NAME": "Kairo",
+		"MERCHANT_NAME": "KairO",
 		"SEED_DEMO_DATA": "true",
 		"EVENT_RETENTION_DAYS": "30"
 	}
